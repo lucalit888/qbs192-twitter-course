@@ -33,3 +33,8 @@ This repository contains the materials for the Twitter API scraping course using
    ```
 
 3. Set Kernel to Virtual Env created by step 2.
+
+
+## Video to follow (if setup instructions are not clear):
+
+https://drive.google.com/file/d/1RX67NKKEOQh60oG6GwpN5JVHiPGAjLtz/view?usp=sharing

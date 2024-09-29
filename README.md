@@ -3,6 +3,7 @@
 This repository contains the materials for the Twitter API scraping course using Tweepy.
 
 ## Prerequisites
+- Github Account
 - Python 3.9+
 - Poetry (for managing dependencies)
    - Install [homebrew](https://brew.sh/)

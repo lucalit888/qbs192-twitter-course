@@ -1,0 +1,10 @@
+# Ignore virtual environments
+.venv/
+__pycache__/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore poetry.lock if desired (optional)
+poetry.lock
+twitter_api_course_me.ipynb

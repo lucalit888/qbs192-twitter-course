@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "twitter-api-course"
+name = "qbs192-twitter-course"
 version = "0.1.0"
-description = "Tweepy API tutorial for scraping Twitter data"
+description = "Tweepy API tutorial for scraping and analyzing Twitter data"
 authors = ["Luca Lit"]
 readme = "README.md"
 
@@ -10,6 +10,11 @@ python = "^3.9"
 tweepy = "^4.14.0"
 pandas = "^2.2.3"
 textblob = "^0.17.1"
+ipykernel = "^6.29.5"
+matplotlib = "^3.9.2"
+langchain-openai = "^0.2.1"
+langchain = "^0.3.1"
+langchain-experimental = "^0.3.2"
 
 [tool.poetry.dev-dependencies]
 jupyter = "^1.0.0"

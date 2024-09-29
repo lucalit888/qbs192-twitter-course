@@ -23,7 +23,7 @@ This repository contains the materials for the Twitter API scraping course using
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/your-repo/qbs192-twitter-course.git
+   git clone https://github.com/lucalit888/qbs192-twitter-course.git
    cd qbs192-twitter-course
    ```
 

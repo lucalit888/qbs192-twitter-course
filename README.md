@@ -1,6 +1,6 @@
 # QBS-192: Twitter API Data Scraping
 
-This repository contains the materials for the Twitter API scraping course using Tweepy.
+This repository contains the materials for the Twitter API scraping course using [Tweepy](https://docs.tweepy.org/en/stable/client.html#tweets).
 
 ## Prerequisites
 - Github Account
